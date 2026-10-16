@@ -1,0 +1,7 @@
+Hello, World!
+This is a sample text file.
+It contains multiple lines of text.
+This is the third line.
+This is an additional line.
+This line will be added to the end of the file.
+Appending new content to the existing file.
